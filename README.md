@@ -1,6 +1,6 @@
-# Louis
+# Louis - Assignment 3 - CSS Layouts and GitHub
 
-This assignment consists of three pages. The first page (index.hhtml) demonstrates a two-column layout with a fixed social media bar on the left side.
+This assignment consists of three pages. The first page (index.html) demonstrates a two-column layout with a fixed social media bar on the left side.
 
 The second page of the assignment demonstrates a three-column layout, also with a fixed social media bar on the left.
 
