@@ -1,0 +1,65 @@
+.col2 {
+    -webkit-column-count: 2; /* Chrome, Safari, Opera */
+    -moz-column-count: 2; /* Firefox */
+    column-count: 2;
+    -webkit-column-gap: 30px; /* Chrome, Safari, Opera */
+    -moz-column-gap: 30px; /* Firefox */    
+    column-gap: 30px;
+}
+
+.col3 {
+    -webkit-column-count: 3; /* Chrome, Safari, Opera */
+    -moz-column-count: 3; /* Firefox */
+    column-count: 3;
+    -webkit-column-gap: 20px; /* Chrome, Safari, Opera */
+    -moz-column-gap: 20px; /* Firefox */    
+    column-gap: 20px;
+}
+
+a:link {
+    text-decoration: none;
+}
+
+a:visited {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+    color: #FF00FF;
+}
+
+ul.style {
+    list-style-type: none;
+    position: fixed;
+}
+
+h1 {
+    margin-left: 125px;
+}
+
+h2 {
+    font-weight: bold;
+    padding-top: 10px;
+}
+
+p {
+    margin-top: 0em;
+}
+
+section {
+    margin-left: 125px;
+    margin-right: 10px;
+    text-align: justify;
+    padding-left: 10px;
+    border-left-style: groove;
+    border-left-color: red;
+}
+
+.thumbnail {
+    float: left;
+    width: 200px;
+    height: 150px;
+    padding-bottom: 5px;
+    padding-right: 5px;
+}
